@@ -6,3 +6,10 @@ button.btn.btn-primary.btn-lg.px-4.me-md-2.fw-bold a{
     color: white;
     text-decoration: none;
 }
+
+@media(max-width: 800px) {
+    button.btn.btn-primary.btn-lg.px-4.me-md-2.fw-bold a{
+        color: white;
+        text-decoration: none;
+    }
+}
